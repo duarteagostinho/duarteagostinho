@@ -37,6 +37,11 @@ When I'm not debugging segfaults or hunting down memory leaks, you'll find me ex
 
 ## Featured Projects
 
+### ⚽ [FooTable](https://github.com/duarteagostinho/FooTable)
+A football management website built with AI assistance. Features 10k+ lines in a single index.html - because sometimes you just want everything in one place. But seriously, this is the beginning of a journey into web development and AI-powered coding. And the concept is: to have a website where you can register your casual football games, with your friends. And keep track of your stats, which we've been doing for a couple of months now.
+
+**Key concepts**: HTML/CSS/JavaScript, AI-assisted development, web design, monolithic architecture
+
 ### 🖥️ [minishell](https://github.com/duarteagostinho/minishell)
 A bash-like shell implementation in C. Handles pipes, redirections, environment variables, and built-in commands. Because who doesn't want to build their own shell?
 
