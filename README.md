@@ -42,7 +42,7 @@ A bash-like shell implementation in C. Handles pipes, redirections, environment 
 
 **Key concepts**: Process management, pipes, signals, parser implementation
 
-### 🎮 [cub3d](https://github.com/duarteagostinho/cub3d)
+### 🎮 [cub3d](https://github.com//cub3d](https://github.com/Guilherme-A-F-Andrade/cub3d))
 A 3D game inspired by Wolfenstein 3D, using raycasting to render a maze from a first-person perspective. Built with MiniLibX.
 
 **Key concepts**: Raycasting, graphics programming, game loops, texture mapping
@@ -51,11 +51,6 @@ A 3D game inspired by Wolfenstein 3D, using raycasting to render a maze from a f
 The classic dining philosophers problem. Learned more about deadlocks than I ever wanted to know.
 
 **Key concepts**: Threading, mutexes, synchronization, race conditions
-
-### 🌐 [webserv](https://github.com/duarteagostinho/webserv)
-HTTP/1.1 compliant web server written in C++. It serves files, handles CGI, and doesn't crash (most of the time).
-
-**Key concepts**: Sockets, HTTP protocol, I/O multiplexing, CGI
 
 ### 📚 [libft](https://github.com/duarteagostinho/libft)
 My own C library - the foundation of every 42 project. Contains reimplementations of standard C library functions plus some bonus utilities.
@@ -71,6 +66,11 @@ Sorting algorithm optimization with two stacks and a limited set of operations. 
 A client-server communication program using UNIX signals. Data transmission one bit at a time, because why make things easy?
 
 **Key concepts**: UNIX signals (SIGUSR1, SIGUSR2), bitwise operations, inter-process communication
+
+### 🎮 [so_long](https://github.com/duarteagostinho/so_long)
+A 2D top-down game where you collect items and escape through the exit. Built with MiniLibX, teaching the fundamentals of graphics programming and game development.
+
+**Key concepts**: 2D graphics rendering, event handling, map parsing, sprite management
 
 ## GitHub Stats
 
@@ -89,7 +89,7 @@ A client-server communication program using UNIX signals. Data transmission one 
 ```
 Common Core Progress: In Progress
 Current Project: C++ Modules
-Completed Projects: 15+
+Completed Projects: 12+
 ```
 
 **Completed Projects:**
@@ -98,6 +98,7 @@ Completed Projects: 15+
 - ✅ get_next_line (125/100)
 - ✅ Born2beroot (125/100)
 - ✅ push_swap
+- ✅ so_long
 - ✅ minitalk
 - ✅ minishell
 - ✅ philosophers
