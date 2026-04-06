@@ -42,7 +42,7 @@ A bash-like shell implementation in C. Handles pipes, redirections, environment 
 
 **Key concepts**: Process management, pipes, signals, parser implementation
 
-### 🎮 [cub3d](https://github.com//cub3d](https://github.com/Guilherme-A-F-Andrade/cub3d))
+### 🎮 [cub3d](https://github.com/Guilherme-A-F-Andrade/cub3d)
 A 3D game inspired by Wolfenstein 3D, using raycasting to render a maze from a first-person perspective. Built with MiniLibX.
 
 **Key concepts**: Raycasting, graphics programming, game loops, texture mapping
