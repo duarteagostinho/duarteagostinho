@@ -81,10 +81,6 @@ A 2D top-down game where you collect items and escape through the exit. Built wi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duarteagostinho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duarteagostinho&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duarteagostinho&theme=tokyonight&hide_border=true)
 
 </div>
