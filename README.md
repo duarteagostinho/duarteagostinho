@@ -118,8 +118,6 @@ I'm always up for discussing systems programming, 42 projects, or just geeking o
 
 <div align="center">
 
-*"In 42 we trust, in Norminette we must"*
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=duarteagostinho&color=blueviolet&style=for-the-badge)
 
 </div>
